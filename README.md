@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
    - Create an account and obtain your API key
 
 4. Add your Coinalyze API key:
-   - [Notebook 1 - Data Processing](./Cryptocurrency-analytics-using-Exchange-API-data/PART%201%20-%20data%20processing%20final.ipynb)
+   - [Notebook 1 - Data Processing](./PART%201%20-%20data%20processing%20final.ipynb)
    - Replace 'your_api_key' with your Coinalyze API key in the code
 
 5. Run the Jupyter notebooks:
