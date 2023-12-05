@@ -39,9 +39,9 @@ Project Contributors:
 - Henry Miranda Bastidas
 ## References:
 
-- [Governors State University (Graduate Capstone Thesis)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://opus.govst.edu/cgi/viewcontent.cgi?article=1131&context=theses)
-- [Blekinge Institute of Technology (Bachelors Paper)]()
-- [GeeksforGeeks (Bitcoin Price Prediction using Machine Learning in Python)]()
+- [Governors State University (Graduate Capstone Thesis)](https://opus.govst.edu/theses/132/)
+- [Blekinge Institute of Technology (Bachelors Paper)](https://www.researchgate.net/publication/224098514_Learning_Machine_Learning_A_Case_Study)
+- [GeeksforGeeks (Bitcoin Price Prediction using Machine Learning in Python)](https://www.geeksforgeeks.org/bitcoin-price-prediction-using-machine-learning-in-python/)
 ## Moving Forward
 Allow users to input risk factors for a more tailored experience.
 Incorporate additional model outputs (e.g., strong buy, buy at discretion) to provide more nuanced advice.
