@@ -3,30 +3,32 @@
 ## Project Description
 The Cryptocurrency Price Prediction and Analysis project aim to utilize machine learning models to predict future price fluctuations of Bitcoin, with a focus on providing valuable insights for new and inexperienced investors. In the wake of the 2022 cryptocurrency crash, the project seeks to address the volatility and risks associated with cryptocurrency investments. The analysis involves the extraction and processing of data from various cryptocurrency markets, creating visualizations for market insights, and implementing a Random Forest Classifier for price predictions.
 
+
 ## Table of Contents
-How to Install and Run the Project
-How to Use the Project
-Credits
+- [How to Install and Run the Project](#how-to-install-and-run-the-project)
+- [How to Use the Project](#how-to-use-the-project)
+- [Credits](#credits)
+
 ## How to Install and Run the Project
 To run the project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/cryptocurrency-prediction.git
-cd cryptocurrency-prediction
+   - `git clone https://github.com/your-username/cryptocurrency-prediction.git`
+   - `cd cryptocurrency-prediction`
 
 2. Install dependencies:
-pip install -r requirements.txt
+   - `pip install -r requirements.txt`
 
 3. Obtain the Coinalyze API key:
-Visit Coinalyze API Documentation
-Create an account and obtain your API key
+   - Visit [Coinalyze API](https://coinalyze.net/) Documentation
+   - Create an account and obtain your API key
 
 4. Add your Coinalyze API key:
-Open Notebook 1 - Data Processing.ipynb 
-Replace 'your_api_key' with your Coinalyze API key in the code
+   - Open Notebook 1 - Data Processing.ipynb 
+   - Replace 'your_api_key' with your Coinalyze API key in the code
 
 5. Run the Jupyter notebooks:
-Execute the cells in Notebook 1, Notebook 2 and Notebook 3 to process and analyze the data
+   - Execute the cells in Notebook 1, Notebook 2 and Notebook 3 to process and analyze the data
 
 ## How to Use the Project
 The project provides visualizations and insights into the cryptocurrency market, specifically Bitcoin. Users can refer to the generated visualizations in the notebooks for market trends, sentiment analysis, and potential buying/selling indicators. The Random Forest Classifier model predicts price fluctuations, and users can explore the findings to make informed decisions.
