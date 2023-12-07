@@ -30,14 +30,14 @@ To run the project locally, follow these steps:
    - Replace 'your_api_key' with your Coinalyze API key in the code
 
 5. Run the Jupyter notebook 1:
-   - Execute the cells in [Notebook 1 - Data Processing](Notebooks/Notebook%201%20-%20Data%20Processing.ipynb), it will return 6 CSV files (Close Volume, Funding, Liquidations, Long Short, Older BTC Closes, Open Interest)
+   - Execute the cells in [Notebook 1](Notebooks/Notebook%201%20-%20Data%20Processing.ipynb), it will return 6 CSV files (Close Volume, Funding, Liquidations, Long Short, Older BTC Closes, Open Interest)
      
 6. Run the Jupyter notebook 2:
-   - With the CSV files obtained from Notebook 1, execute the cells in [Notebook 2 - Data Wrangling & Visualizations](Notebooks/Notebook%202%20-%20Data%20Wrangling%20%26%20Visualizations.ipynb). Or you can use Notebook 2 directly with the provided [CSVs files](Data%20Files/CSVs%20for%20Notebook%202) (data updated on: Dec 5th, 2023)
+   - With the CSV files obtained from the step before, execute the cells in [Notebook 2](Notebooks/Notebook%202%20-%20Data%20Wrangling%20%26%20Visualizations.ipynb). Or you can use Notebook 2 directly with the provided [CSVs files](Data%20Files/CSVs%20for%20Notebook%202) (data updated on: Dec 5th, 2023)
    - This Notebook will return 1 CSV file, wrangled
   
 7. Run the Jupyter notebook 3:
-   - With the previous CSV file, execute all the cells on [Notebook 3 - Feature Eng. and Model Training](Notebooks/Notebook%203%20-%20Feature%20Eng.%20and%20Model%20Training.ipynb). Or like before, you can use the provided [CSV](Data%20Files/CSVs%20for%20Notebook%203) (data updated on: Dec 5th, 2023)
+   - With the previous CSV file, execute all the cells on [Notebook 3](Notebooks/Notebook%203%20-%20Feature%20Eng.%20and%20Model%20Training.ipynb). Or like before, you can use the provided [CSV](Data%20Files/CSVs%20for%20Notebook%203) (data updated on: Dec 5th, 2023)
   
 
 ## How to Use the Project
