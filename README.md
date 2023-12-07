@@ -1,7 +1,7 @@
 # Cryptocurrency Price Prediction and Analysis
 
 ## Project Description
-The Cryptocurrency Price Prediction and Analysis project aim to utilize machine learning models to predict future price fluctuations of Bitcoin, with a focus on providing valuable insights for new and inexperienced investors. In the wake of the 2022 cryptocurrency crash, the project seeks to address the volatility and risks associated with cryptocurrency investments. The analysis involves the extraction and processing of data from various cryptocurrency markets, creating visualizations for market insights, and implementing a Random Forest Classifier for price predictions. To read more about our thought process for this project, visit our article.
+The Cryptocurrency Price Prediction and Analysis project aim to utilize machine learning models to predict future price fluctuations of Bitcoin, with a focus on providing valuable insights for new and inexperienced investors. In the wake of the 2022 cryptocurrency crash, the project seeks to address the volatility and risks associated with cryptocurrency investments. The analysis involves the extraction and processing of data from various cryptocurrency markets, creating visualizations for market insights, and implementing a Random Forest Classifier for price predictions. To read more about our thought process for this project, visit our [Medium article](https://medium.com/@sebastian.villada_97143/is-machine-learning-the-key-to-cracking-the-crypto-conundrum-4ca767ed1aea).
 
 
 ## Table of Contents
@@ -30,14 +30,14 @@ To run the project locally, follow these steps:
    - Replace 'your_api_key' with your Coinalyze API key in the code
 
 5. Run the Jupyter notebook 1:
-   - Execute the cells in Notebook 1, it will return 6 CSV files (Close Volume, Funding, Liquidations, Long Short, Older BTC Closes, Open Interest)
+   - Execute the cells in [Notebook 1 - Data Processing](Notebooks/Notebook%201%20-%20Data%20Processing.ipynb), it will return 6 CSV files (Close Volume, Funding, Liquidations, Long Short, Older BTC Closes, Open Interest)
      
 6. Run the Jupyter notebook 2:
-   - With the CSV files obtained from Notebook 1, execute the cells in Notebook 2. Or you can use Notebook 2 directly with the provided CSV files (data updated on: Dec 5th, 2023)
+   - With the CSV files obtained from Notebook 1, execute the cells in [Notebook 2 - Data Wrangling & Visualizations](Notebooks/Notebook%202%20-%20Data%20Wrangling%20%26%20Visualizations.ipynb). Or you can use Notebook 2 directly with the provided [CSVs files](Data%20Files/CSVs%20for%20Notebook%202) (data updated on: Dec 5th, 2023)
    - This Notebook will return 1 CSV file, wrangled
   
 7. Run the Jupyter notebook 3:
-   - With the previous CSV file, execute all the cells on Notebook 3. Or like before, you can use the provided CSV (data updated on: Dec 5th, 2023)
+   - With the previous CSV file, execute all the cells on [Notebook 3 - Feature Eng. and Model Training](Notebooks/Notebook%203%20-%20Feature%20Eng.%20and%20Model%20Training.ipynb). Or like before, you can use the provided [CSV](Data%20Files/CSVs%20for%20Notebook%203) (data updated on: Dec 5th, 2023)
   
 
 ## How to Use the Project
