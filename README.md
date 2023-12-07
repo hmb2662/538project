@@ -54,9 +54,17 @@ Project Contributors:
 - [A cryptocurrency timeline: From eCash to Ethereum](https://www.forbes.com/uk/advisor/investing/cryptocurrency/cryptocurrency-statistics/)
 - [Cryptocurrency statistics 2023 - Forbes](https://www.forbes.com/uk/advisor/investing/cryptocurrency/cryptocurrency-statistics/)
 - [Investopedia](https://www.investopedia.com)
+- [Liquidation level: What it is, how it works](https://www.investopedia.com/terms/l/liquidationlevel.asp)
 - [NASDAQ](https://www.nasdaq.com)
+- [Open interest: Definition, how it works, and example](https://www.investopedia.com/terms/o/openinterest.asp)
+- [Perpetual futures: What they are and how they work](https://www.investopedia.com/what-are-perpetual-futures-7494870)
 - [Predicting the price of cryptocurrency using machine learning algorithm](https://opus.govst.edu/cgi/viewcontent.cgi?article=1131&context=theses)
 - [Predicting cryptocurrency prices with machine learning algorithms: A comparative analysis](https://www.diva-portal.org/smash/get/diva2:1778251/FULLTEXT03)
+- [Relative strength index (RSI) indicator explained with formula](https://www.investopedia.com/terms/r/rsi.asp)
+
+
+
+
 
 
 
