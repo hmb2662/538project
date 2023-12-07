@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
    - Create an account and obtain your API key
 
 4. Add your Coinalyze API key:
-   - Open [Notebook 1 - Data Processing](./PART%201%20-%20data%20processing%20final.ipynb)
+   - Open [Notebook 1 - Data Processing]()
    - Replace 'your_api_key' with your Coinalyze API key in the code
 
 5. Run the Jupyter notebook 1:
@@ -34,7 +34,7 @@ To run the project locally, follow these steps:
      
 6. Run the Jupyter notebook 2:
    - With the CSV files obtained from Notebook 1, execute the cells in Notebook 2. Or you can use Notebook 2 directly with the provided CSV files (data updated on: Dec 5th, 2023)
-   - This Notebook will retuen 1 CSV file, wrangled
+   - This Notebook will return 1 CSV file, wrangled
   
 7. Run the Jupyter notebook 3:
    - With the previous CSV file, execute all the cells on Notebook 3. Or like before, you can use the provided CSV (data updated on: Dec 5th, 2023)
